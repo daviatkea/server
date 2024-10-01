@@ -1,5 +1,5 @@
 exports.handler = async (event) => {
-  const data = require("../../data/data.json");
+  const data = require("../../api/data.json");
   const id = event.queryStringParameters.id;
 
   const artist = data.artists.find((a) => a.id === parseInt(id));
