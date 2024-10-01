@@ -11,7 +11,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/goldie-1024x1024.webp",
+        "url": "../images/goldie-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -26,7 +26,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/yakuza3-1024x1024.webp",
+        "url": "../images/yakuza3-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -41,7 +41,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/Artigeardit-Pressebillede-1024x1024.webp",
+        "url": "../images/Artigeardit-Pressebillede-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -56,7 +56,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/gobs_main-1024x1024.webp",
+        "url": "../images/gobs_main-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -71,7 +71,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/rune_rask_faceyourself_pr-13-1-scaled-1-1024x1024.webp",
+        "url": "../images/rune_rask_faceyourself_pr-13-1-scaled-1-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -86,7 +86,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/Presse-1-1024x1024.webp",
+        "url": "../images/Presse-1-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -101,7 +101,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/1538_1538_75_faza-scaled.webp-1024x1024.webp",
+        "url": "../images/1538_1538_75_faza-scaled.webp-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -116,7 +116,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/Unknown-3-1024x1024.webp",
+        "url": "../images/Unknown-3-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -131,7 +131,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/Photo-by-Lina-Palen-1024x1024.webp",
+        "url": "../images/Photo-by-Lina-Palen-1024x1024.webp",
         "type": "image/webp"
       }
     },
@@ -146,7 +146,7 @@
       "og_image": {
         "width": 1024,
         "height": 1024,
-        "url": "/images/Jasko-1-1-1024x1024.webp",
+        "url": "../images/Jasko-1-1-1024x1024.webp",
         "type": "image/webp"
       }
     }
