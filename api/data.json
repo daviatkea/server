@@ -8,7 +8,12 @@
       "link": "https://www.cphdistortion.dk/artist/goldie/",
       "title": "Goldie",
       "content": "Glodie Sofia Topenya, better known as Goldie, is a rapper with authority, ambitions, and character. Being raised in Skanderborg with roots in the Democratic Republic of Congo, her diverse background brings a fresh perspective to the Danish rap scene. Goldie fearlessly expresses her opinions and experiences through her music, tackling issues like racism and the challenges of growing up as a black woman in Denmark. There is no doubt that her concert at Distortion X is going to be a flamboyant and wholesome experience with her blend of hip-hop and afropop-inspired beats.",
-      "og_image": null
+      "og_image": {
+        "width": 1024,
+        "height": 1024,
+        "url": "/images/goldie-1024x1024.webp",
+        "type": "image/webp"
+      }
     },
     {
       "id": 2314,
@@ -18,7 +23,12 @@
       "link": "https://www.cphdistortion.dk/artist/yakuza/",
       "title": "Yakuza",
       "content": "Yakuza is one of Denmark’s few leading female rappers, known for her raw honesty and colourful persona. She has previously supported the American NLE Choppa and performed at the Countdown stage at Roskilde Festival. With a commanding presence and unfiltered expression of sexuality in her music, Yakuza embodies boldness, authenticity, and individuality. Brace yourself for an empowering performance as she takes the stage at Distortion X.",
-      "og_image": null
+      "og_image": {
+        "width": 1024,
+        "height": 1024,
+        "url": "/images/yakuza3-1024x1024.webp",
+        "type": "image/webp"
+      }
     },
     {
       "id": 2239,
@@ -29,10 +39,10 @@
       "title": "Artigeardit",
       "content": "The award-winning young talent Artigeardit is one of the most dominating and talked about artists on the Danish hip-hop scene. Ardit has created his own musical and visual universe in a way the Danish music industry has never seen before. Through his lyrics, he tells stories from his own life, both the good and the bad. His sound is iconic, seductive, and easily recognisable. Artigeardit’s impact on the music industry is undeniable. He is celebrated for his ability to blend genres seamlessly and deliver both hits and deeply poetic works that resonate with audiences across generations.\nArtigeardit will play on the Red Bull stage at Distortion X Nørrebro, Thursday 30 May.",
       "og_image": {
-        "width": 2143,
-        "height": 2143,
-        "url": "https://www.cphdistortion.dk/wp-content/uploads/2024/05/Artigeardit-Pressebillede.jpg",
-        "type": "image/jpeg"
+        "width": 1024,
+        "height": 1024,
+        "url": "/images/Artigeardit-Pressebillede-1024x1024.webp",
+        "type": "image/webp"
       }
     },
     {
@@ -43,7 +53,12 @@
       "link": "https://www.cphdistortion.dk/artist/gobs/",
       "title": "Gobs",
       "content": "Victor Garrdboe, better known as Gobs, is making waves in the Danish music scene with his blend of pop and rap. His album ‘Knuste hjerter heler aldrig’ reached the second spot among most popular albums in Denmark last year. Collaborating with artists such as Hjalmer, Jimilian, Lasse Skrive, Branco, and Mads Langer, Gobs effortlessly shifts between his roles as both a rapper and a passionate popstar. Expect a concert that takes you through a journey of hardcore dancing and emotional swaying.\nGobs will play at Distortion X Rådhuspladsen, Wednesday 29 May 2024.",
-      "og_image": null
+      "og_image": {
+        "width": 1024,
+        "height": 1024,
+        "url": "../public/images/gobs_main-1024x1024.webp",
+        "type": "image/webp"
+      }
     },
     {
       "id": 2226,
@@ -53,7 +68,12 @@
       "link": "https://www.cphdistortion.dk/artist/rune-rask/",
       "title": "Rune Rask",
       "content": "The legendary producer and DJ Rune Rask started to experiment with a tape recorder when he was only 10 years old and has now made music for more than two decades. Famously known as a member of the popular trio Suspekt, Rune gained further recognition with a Grammy nomination for his work on Kendrick Lamar’s debut album on the track ‘The Art of Peer Pressure’. While he spent years producing music for other artists, Rune has since released two solo albums. Transitioning from hip-hop production, his latest work delves into the realm of deeply personal instrumental music.\nIn exclusivity for Distortion X, Rune will perform a very special set. Celebrating the launch of the new streaming service Max, “The Rune Rask Max Mix” will feature iconic music from their vast world of content, including HBO shows, Warner movies, and local programs from discovery+. Get ready for a unique musical experience!\nRune Rask will play at Distortion X Rådhuspladsen, Wednesday 29 May 2024.",
-      "og_image": null
+      "og_image": {
+        "width": 1024,
+        "height": 1024,
+        "url": "../public/images/rune_rask_faceyourself_pr-13-1-scaled-1-1024x1024.webp",
+        "type": "image/webp"
+      }
     },
     {
       "id": 2224,
@@ -64,10 +84,10 @@
       "title": "Merro8",
       "content": "Merro8 has been making waves in the Danish hip-hop scene with his unique fusion of street culture and authenticity. With tracks like ‘2 Kanoner’, ‘Draco’, and his recent single ‘Intet Nyt’ featuring Gilli, he effortlessly merges melodic and rhythmic elements. Merro8 is quickly emerging as one of the most promising rap talents. With millions of streams on Spotify, you know his music speaks to the masses. And when he hits the stage at Distortion X expect nothing but pure energy, ambition, and straight-up greatness.\nMerro8 will play on the Red Bull stage at Distortion X Nørrebro, Thursday 30 May 2024.",
       "og_image": {
-        "width": 1842,
-        "height": 1842,
-        "url": "https://www.cphdistortion.dk/wp-content/uploads/2024/05/Presse-1.jpeg",
-        "type": "image/jpeg"
+        "width": 1024,
+        "height": 1024,
+        "url": "/images/Presse-1-1024x1024.webp",
+        "type": "image/webp"
       }
     },
     {
@@ -79,10 +99,10 @@
       "title": "Faza",
       "content": "Faza is a versatile artist whose sound traverses various genres from hip-hop to RnB to poppy rap. Faza brings a distinctive touch to his melodies and lyrics with a twist of international style that has led him to collaborate with producers like T&O and Anton Wsterlin. Inspired by Drake, PARTYNEXTDOOR, Frank Ocean, and Bryson Tiller, he dropped his debut single ‘4life’ at the start of 2024, earning a spot on Soundvenue’s list of artists to watch this year.\nFaza will play on the Red Bull stage at Distortion X Nørrebro, Thursday 30 May 2024.",
       "og_image": {
-        "width": 1538,
-        "height": 1538,
-        "url": "https://www.cphdistortion.dk/wp-content/uploads/2024/05/1538_1538_75_faza-scaled.jpg.jpeg",
-        "type": "image/jpeg"
+        "width": 1024,
+        "height": 1024,
+        "url": "../public/images/1538_1538_75_faza-scaled.webp-1024x1024.webp",
+        "type": "image/webp"
       }
     },
     {
@@ -94,10 +114,10 @@
       "title": "Noah Carter",
       "content": "In 2016, the B.O.C rapper Noah Carter emerged as one of Danish music’s great hopes with English hits like ‘Do You’ and ‘Come Alive’. The success led to sold-out concerts, including a legendary and completely overcrowded show at Roskilde Festival's Countdown stage. Encouraged by some of his childhood friends and now music colleagues like Gilli, Kesi, Benny Jams, Hans Philip, Noah Carter is now back stronger than ever with new Danish releases like ‘winwin’ and ‘Ousside’. Do not miss him lighting up the stage at Distortion X.\nNoah Carter will play on the Red Bull stage at Distortion X Nørrebro, Thursday 30 May 2024.",
       "og_image": {
-        "width": 1557,
-        "height": 1557,
-        "url": "https://www.cphdistortion.dk/wp-content/uploads/2024/05/Unknown-3.jpeg",
-        "type": "image/jpeg"
+        "width": 1024,
+        "height": 1024,
+        "url": "../public/images/Unknown-3-1024x1024.webp",
+        "type": "image/webp"
       }
     },
     {
@@ -109,10 +129,10 @@
       "title": "Thea Dora",
       "content": "The young musician from Nørrebro, Thea Dora, has a very unique mix of poppy and electronic songs. Inspired by artists like Rosalía, FKA Twigs, and Fred Again.., Thea Dora loves mixing the soft and the hard. Her dreamy vocal and vulnerability combined with catchy pop and brilliant electronic beats is what makes her an artist to look out for. Thea Dora might be new on the Danish music scene, but she has already made a name for herself. Do not miss her at Distortion X.\nThea Dora will play on the Soundvenue stage at Distortion X Nørrebro, Thursday 30 May 2024.",
       "og_image": {
-        "width": 1959,
-        "height": 1959,
-        "url": "https://www.cphdistortion.dk/wp-content/uploads/2024/05/Photo-by-Lina-Palen.jpg",
-        "type": "image/jpeg"
+        "width": 1024,
+        "height": 1024,
+        "url": "../public/images/Photo-by-Lina-Palen-1024x1024.webp",
+        "type": "image/webp"
       }
     },
     {
@@ -124,10 +144,10 @@
       "title": "Laura4evigt",
       "content": "Laura4evigt creates a sonic landscape that echoes the vibes of dark clubs in the 00’s alongside modern, electronic pop. While she previously released music under the name ‘Laura’, Laura4evigt is now embarking on a new chapter marked by darker undertones and harder electronic sounds. Her atmospheric realm is sinister and subtle, borderless and distinct, simultaneously catchy and expansive. In essence, it is a musical universe from her innermost being with sharp, energetic, and sensitive songs.\nLaura4evigt will play on the Soundvenue stage at Distortion X Nørrebro, Thursday 30 May 2024.",
       "og_image": {
-        "width": 2560,
-        "height": 2560,
-        "url": "https://www.cphdistortion.dk/wp-content/uploads/2024/05/Jasko-1-1-scaled.jpg",
-        "type": "image/jpeg"
+        "width": 1024,
+        "height": 1024,
+        "url": "../public/images/Jasko-1-1-1024x1024.webp",
+        "type": "image/webp"
       }
     }
   ],
